@@ -1,4 +1,5 @@
 ### Olá! Eu sou o Otávio apaixonado por tecnologia e conhecimento.
+-💻 Estudante de Engenharia de Software PUC MINAS
 
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/_otaviomendes_/)
 [![Linkedin](	https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/otavio-mendes-852b85174/)
