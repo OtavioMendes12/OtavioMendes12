@@ -15,7 +15,7 @@ _____
 
 ### Tools
 
-![My Skills](https://skillicons.dev/icons?i=git,docker,aws,postgres,postman,jenkins,grafana)
+![My Skills](https://skillicons.dev/icons?i=git,docker,aws,postgres,postman,jenkins,grafana,rabbitmq)
 
 ___
 
