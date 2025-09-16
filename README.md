@@ -9,7 +9,7 @@ _____
 
 ### Skills
 
-![My Skills](https://skillicons.dev/icons?i=java,spring,python,angular,js)
+![My Skills](https://skillicons.dev/icons?i=java,spring,python,angular,js,golang)
 
 _____
 
