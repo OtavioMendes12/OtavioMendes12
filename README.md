@@ -1,7 +1,7 @@
 # Hi, i'm Otávio Mendes!👋
 ### Backend Developer
 
-- 💼 Backend Developer at Busca Passagens
+- 💼 Backend Developer at Itexto Consultoria
 
 <img src="https://i.imgur.com/iaD74Rp.png" width="20" height="20" > Belo Horizonte, MG - Brazil
 
